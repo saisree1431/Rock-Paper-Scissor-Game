@@ -15,7 +15,7 @@ This project was created as part of my JavaScript learning journey.
 - **JavaScript** for game logic  
 
 ## 📷 Demo Screenshot  
-![Game Screenshot](screenshot.png)  
+![Game Screenshot](Screenshot.png)  
 
 ## 📂 How to Run  
 1. Clone the repository  
