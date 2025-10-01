@@ -15,10 +15,10 @@ This project was created as part of my JavaScript learning journey.
 - **JavaScript** for game logic  
 
 ## 📷 Demo Screenshot  
-(Add a scr<img width="1920" height="1020" alt="Screenshot 2025-09-30 195657" src="https://github.com/user-attachments/assets/eafe11eb-10c4-4590-850a-d3ce3153004d" />
-eenshot of your game UI here if you want, by dragging an image into your repo)  
+![Game Screenshot](Screenshot 2025-09-30 195657.png)
+
 
 ## 📂 How to Run  
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/rock-paper-scissors-game.git
+   git clone https://saisree1431.github.io/Rock-Paper-Scissor-Game/.git
